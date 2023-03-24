@@ -14,7 +14,15 @@ h4  {
     
 }
 
-div {
-
+.marci {
+    float: left;
+    width: 600px;
+    height: 400px;
 }
 
+.ruben {
+    float: right;
+    width: 600px;
+    height: 400px;
+ 
+}
