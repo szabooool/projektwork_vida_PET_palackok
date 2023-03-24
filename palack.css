@@ -36,3 +36,7 @@ h4  {
     width: 1250px;
     height: 280px;
 }
+
+p{
+    text-align: justify;
+}
