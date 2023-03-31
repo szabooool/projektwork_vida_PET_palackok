@@ -16,27 +16,31 @@ h4  {
 
 .marci {
     float: left;
-    width: 600px;
+    width: 630px;
     height: 400px;
 }
 
 .ruben {
     float: right;
-    width: 600px;
+    width: 640px;
     height: 400px;
  
 }
 
 .tarna {
-    width: 1250px;
+    width: 1350px;
     height: 600px;
 }
 
 .szabi {
-    width: 1250px;
+    width: 1290px;
     height: 280px;
 }
 
 p{
     text-align: justify;
+}
+
+ul {
+    margin-left: 35px;
 }
